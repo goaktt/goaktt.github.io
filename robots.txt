@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://goaktt.github.io/Xxl/sitemap.Xxl.gz
